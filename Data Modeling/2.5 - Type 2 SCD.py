@@ -2,7 +2,7 @@
 # MAGIC %md-sandbox
 # MAGIC 
 # MAGIC <div  style="text-align: center; line-height: 0; padding-top: 9px;">
-# MAGIC   <img src="https://github.com/akshithrajesh290/streaming/main/Includes/images/books.png" width="60%">
+# MAGIC   <img src="https://raw.githubusercontent.com/akshithrajesh290/streaming/main/Includes/books.png" width="60%">
 # MAGIC </div>
 
 # COMMAND ----------
@@ -107,7 +107,7 @@ display(books_df)
 # MAGIC %md-sandbox
 # MAGIC 
 # MAGIC <div  style="text-align: center; line-height: 0; padding-top: 9px;">
-# MAGIC   <img src="https://github.com/akshithrajesh290/streaming/main/Includes/images/current_books.png" width="60%">
+# MAGIC   <img src="https://raw.githubusercontent.com/akshithrajesh290/streaming/main/Includes/current_books.png" width="60%">
 # MAGIC </div>
 
 # COMMAND ----------
