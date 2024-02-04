@@ -2,7 +2,7 @@
 # MAGIC %md-sandbox
 # MAGIC 
 # MAGIC <div  style="text-align: center; line-height: 0; padding-top: 9px;">
-# MAGIC   <img src="https://raw.githubusercontent.com/akshithrajesh290/streaming/main/Includes/customers.png" width="60%">
+# MAGIC   <img src="https://raw.githubusercontent.com/akshithrajesh290/streaming/main/includes/customers.png" width="60%">
 # MAGIC </div>
 
 # COMMAND ----------
